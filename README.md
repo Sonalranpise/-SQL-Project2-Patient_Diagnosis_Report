@@ -1,16 +1,12 @@
 # SQL-Project2-Patient_Diagnosis_Report
 
-DESCRIPTION
+**DESCRIPTION**
 The data analyst of a hospital wants to store the patient diagnosis reports with the details of the doctors and the patients for good medical practice and continuity of care.
 
- 
-Objective:
+**Objective:**
 The database design helps to retrieve, update, and modify the patient’s details to keep track of the patient's health care routine.
 
-
-
-Task to be performed:
-
+**Task to be performed:**
 - Write a query to create a patients table with the fields such as date, patient id, patient name, age, weight, gender, location, phone number, disease, doctor name, and doctor id.
 - Write a query to insert values into the patients table.
 - Write a query to display the total number of patients in the table.
